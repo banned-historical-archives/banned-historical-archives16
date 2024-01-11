@@ -43,7 +43,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives16/2c6bc06e-ad24-4316-816a-56c18ea5d9f1",
+  "path": "2c6bc06e-ad24-4316-816a-56c18ea5d9f1",
   "resource_type": "book",
   "version": 2
 }

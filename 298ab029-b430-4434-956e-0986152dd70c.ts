@@ -39,7 +39,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives16/298ab029-b430-4434-956e-0986152dd70c.pdf",
+  "path": "298ab029-b430-4434-956e-0986152dd70c.pdf",
   "resource_type": "book",
   "version": 2
 }
