@@ -6,7 +6,7 @@ export default {
     "official": false,
     "type": "img",
     "author": "上海市五七干校，1978.6",
-    "files": [
+    "files": [ 
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives16/main/0030b6ae-bc3a-4015-931f-4757447abb55/1.jpg",
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives16/main/0030b6ae-bc3a-4015-931f-4757447abb55/2.jpg",
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives16/main/0030b6ae-bc3a-4015-931f-4757447abb55/3.jpg",
