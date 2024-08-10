@@ -31,8 +31,8 @@ export default {
         "dates": [
           {
             "year": 1977,
-            "month": 3,
-            "day": 15
+            "month": 1,
+            "day": 31
           }
         ]
       },
@@ -46,8 +46,8 @@ export default {
         "dates": [
           {
             "year": 1977,
-            "month": 3,
-            "day": 15
+            "month": 1,
+            "day": 31
           }
         ]
       }
